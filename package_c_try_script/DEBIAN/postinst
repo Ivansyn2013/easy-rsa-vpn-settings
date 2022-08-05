@@ -1,0 +1,4 @@
+#!bin/bash
+echo "C++ hellow world is installed"
+echo"(|_0)"
+
